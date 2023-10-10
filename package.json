@@ -1,6 +1,8 @@
 {
-  "name": "cra-template",
+  "name": "base-reactjs-template",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/PinkPigPinkPig/base-reactjs-template.git",
+  "author": "PinkPigPinkPig <vuquytuan2706@gmail.com>",
   "license": "MIT"
 }
